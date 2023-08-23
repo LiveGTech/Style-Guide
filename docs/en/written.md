@@ -21,7 +21,7 @@ Single quotes should not be used to define a term. Term definitions should use *
 
 Double quotes are for quoted text — text that has been written or said by someone and transcribed word-for-word. Double quotes may also be used to represent an expected message.
 
-For uninterrupted quotations that spans one or more sentences, all punctuation is to reside between the quotation marks, and not outside them (except for trailling commas, which must go after the closing quotation mark). If a quotation is preceeded by an attribution to the author, then the first letter of the quotation is to not be capitalised. Here is an example:
+For uninterrupted quotations that span one or more sentences, all punctuation is to reside between the quotation marks, and not outside them (except for trailling commas, which must go after the closing quotation mark). If a quotation is preceeded by an attribution to the author, then the first letter of the quotation is to not be capitalised. Here is an example:
 
 > Charlie said, "excitingly, LiveG OS has become one of the fastest growing operating systems in user adoption. We're looking forward to seeing what users think of the next release."
 
