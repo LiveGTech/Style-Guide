@@ -23,15 +23,15 @@ Double quotes are for quoted text — text that has been written or said by some
 
 For uninterrupted quotations that span one or more sentences, all punctuation is to reside between the quotation marks, and not outside them (except for trailling commas, which must go after the closing quotation mark). If a quotation is preceeded by an attribution to the author, then the first letter of the quotation is to not be capitalised. Here is an example:
 
-> Charlie said, "excitingly, LiveG OS has become one of the fastest growing operating systems in user adoption. We're looking forward to seeing what users think of the next release."
+> Charlie said, "excitingly, LiveG OS has become one of the fastest-growing operating systems in user adoption. We're looking forward to seeing what users think of the next release."
 
 Here is an example of an interrupted quotation. Note how LiveG prefers to have a comma outside the first part of the quotation and the full stop outside the second part (unlike with uninterrupted quotations):
 
-> "Excitingly", Charlie said, "LiveG OS has become one of the fastest growing operating systems in user adoption".
+> "Excitingly", Charlie said, "LiveG OS has become one of the fastest-growing operating systems in user adoption".
 
 When quoting text that spreads across multiple paragraphs, all paragraphs except the final paragraph must have opening quotation marks and no closing quotation marks:
 
-> Charlie said, "We can't wait to see what users think of our next release of LiveG OS.
+> Charlie said, "we can't wait to see what users think of our next release of LiveG OS.
 >
 > "Loads of users have got in touch, and have given us lots of useful feedback about how they use LiveG OS to complete their work and have fun. We've been working with every single user who has contacted us to ensure that LiveG OS is perfect for them.
 >
