@@ -17,7 +17,7 @@ Single quotes are more common in LiveG's correspondence: they represent figures 
 
 > The files should then be 'pulled' from the server by being downloaded.
 
-Single quotes should not be used to define a term. Term definitions should use **bold text** for terms defined by LiveG, and _italicised text_ for other terms that are introduced, respectively.
+Single quotes should not be used to define a term. Term definitions should use **bold text** for terms defined by LiveG, and _italicised text_ for other terms that are introduced, respectively. However, single quotes are permissible for these particular use cases only when it is not technically possible to format text as bold or italicised.
 
 Double quotes are for quoted text — text that has been written or said by someone and transcribed word-for-word. Double quotes may also be used to represent an expected message.
 
